@@ -11,14 +11,14 @@ Projekt został przygotowany jako część pracy inżynierskiej i przedstawia ko
 
 Aplikacja zawiera:
 
-✔ Stronę główną  
-✔ Listę produktów  
-✔ Podstronę szczegółów produktu  
-✔ Możliwość dodawania produktów do koszyka (po stronie klienta)  
-✔ Podstronę "O nas"  
-✔ Podstronę "Kontakt"  
-✔ Layout i wspólne elementy UI  
-✔ Integrację z Bootstrap i jQuery  
+- Stronę główną  
+- Listę produktów  
+- Podstronę szczegółów produktu  
+- Możliwość dodawania produktów do koszyka (po stronie klienta)  
+- Podstronę "O nas"  
+- Podstronę "Kontakt"  
+- Layout i wspólne elementy UI  
+- Integrację z Bootstrap i jQuery  
 
 2 Technologie
 
